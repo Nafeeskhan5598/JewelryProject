@@ -1,0 +1,38 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Baloo+Bhai+2:wght@800&family=Cinzel&family=Lobster&family=Oswald:wght@600&family=Shantell+Sans&display=swap');
+
+
+.order-all{
+    width: 100%;
+    text-align: center;
+    justify-content: center;
+    margin-top: 207px;
+}
+.order-header h2{
+    font-weight: 100;
+    font-family: 'Cinzel',serif;
+    line-height: 1em;
+    text-transform: uppercase;
+    font-size: 45px;
+    padding-bottom: 8px;
+}
+.order-pera h4{
+    font-size: 26px;
+line-height: 1em;
+/* font-family: 'Cinzel',serif;*/
+/* font-family: 'Baloo Bhai 2', cursive; */
+font-family: 'Cinzel', serif;
+/* font-family: 'Lobster', cursive;
+font-family: 'Oswald', sans-serif;
+font-family: 'Shantell Sans', cursive;  */
+text-transform: uppercase;
+opacity: 0.7;
+font-weight: 100;
+}
+.logo-perent-class{
+    display: flex;
+   justify-content: center;
+   align-items: center;
+   margin-top: 98px;
+   padding-bottom: 122px;
+}

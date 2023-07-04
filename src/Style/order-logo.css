@@ -1,0 +1,15 @@
+.all-logo-item{
+    width: 289px;
+    height: 200px;
+    /* border: 2px solid red; */
+    margin: 32PX;
+}
+.logo-category{ 
+    font-size: 25px;
+    font-family: 'Cinzel',serif;
+
+    font-weight: 100;
+  }
+  .logo-pera{
+    line-height: 25px;
+  }
