@@ -2,6 +2,7 @@ import React from "react";
 import '../Style/footer.css';
 
 function Footer() {
+    console.log('nafees')
 
     return (
         <>
