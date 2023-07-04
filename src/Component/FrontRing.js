@@ -8,16 +8,6 @@ import { SketchPicker } from 'react-color';
 function FrontRing() {
 
   return (
-
-    // <div className="ring-image">
-    // <div className="ring-img">
-
-
-    // <Image1 src="https://websitedemos.net/blingg-jewelry-store-04/wp-content/uploads/sites/1119/2022/08/hero.jpg.js/100px250" alt="image" fluid />;
-    // </div>
-    // </div>
-    // <div style={{ display: "block", width: 100%, padding: 30 }}>
-
     <div className="ring-image">
       <div className="ring-img">
         <Image
@@ -42,12 +32,6 @@ function FrontRing() {
             <div className="sensation-btn-first">
            <button className="btn-first">SHOP NOW</button>
             </div>
-
-
-
-
-            
-
       </div>
       </div>
   </div>
