@@ -8,8 +8,13 @@ function CardItemFirst(props) {
         <>
             <div className="all-cards">
                 <div className="card-items">
+                
                     <img src={props.imgsrc} alt="card-pic" className={`${props.cardother} card-img`} />
+             
+                         
+                               
                 </div>
+                
                 <div className="card-info">
                     <h3 className="card-category"> {props.title}</h3>
                     <div className="card-width">

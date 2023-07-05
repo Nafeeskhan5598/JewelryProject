@@ -6,19 +6,21 @@
 .page  a{
     display: inline-block;
     padding: 0px 1em;
-    font-size: 13px;
+    font-size: 14px;
     /* font-size: 0.93333333333333rem; */
     color: var(--ast-global-color-2);
-    font-weight: 200;
+    font-weight: 350;
     cursor: pointer;
     text-decoration: none;
+    height: 83px;
+    padding-top: 26px;
     
  
 }
 .page .home:hover {
-    color: var(--ast-global-color-0);
-    /* border: 2px solid orange; */
-    color: orange;
+    
+    border-top: 1px solid #83471f;
+    color: #83471f;
   
 }
 .pages{
@@ -29,7 +31,7 @@
    
 }
 .page{
-    margin-top: 30px;
+    margin-top: -4px;
 }
 #search{
     font-size: 20px;
@@ -37,4 +39,8 @@
 #shopping{
     font-size: 20px;
 }
-
+nav #shopping:hover{
+    color: #83471f !important;
+    /* color: var(--ast-global-color-0); */
+ 
+}

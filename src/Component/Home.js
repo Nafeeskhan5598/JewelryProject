@@ -19,7 +19,7 @@ function Home() {
     return (
         <>
     
-        <Navbar  / > 
+        {/* <Navbar  / >  */}
         <FrontRing />  
         {/* <Logofor />  */}
         <Clouserimg />
@@ -29,7 +29,7 @@ function Home() {
         </div>
         <GirlRing />
         <Order />
-        <Footer />
+        {/* <Footer /> */}
       
         </>
     )

@@ -3,6 +3,7 @@ import '../Style/Navbar.css';
 import Items from "../Navfolder/Items";
 import Logo from "../Navfolder/Logo";
 import Pages from '../Navfolder/Pages';
+// import { NavLink } from "react-router-dom";
 // import '../Style/Navbar.css';
 // import { Button } from 'react-bootstrap';
 
