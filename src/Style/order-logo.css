@@ -13,3 +13,17 @@
   .logo-pera{
     line-height: 25px;
   }
+  @media screen and (max-width: 1440px){  
+  .logo-perent-class{
+    justify-content: center;
+    margin: auto;
+}
+.logo-childe-class{
+    width: 200px;
+    height: 270px;
+}
+.all-logo-item {
+  width: 165px;
+  height: 240px;
+}
+  }

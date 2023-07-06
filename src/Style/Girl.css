@@ -45,3 +45,33 @@ text-transform: uppercase;
     padding-left: 68px;
     /* margin-left: -91px; */
 }
+@media screen and (max-width: 1440px){  
+
+    .girl-text-area{
+        height: 433px;
+        width: 240px;
+    }
+    .girl-Bracelet{
+      width: 188px;
+    margin-left: -175px;
+    }
+    .girl-Bracelet img {
+        height: 550px;
+        width: 392px;
+    }
+
+}
+
+@media screen and (max-width: 1115px){  
+    .girl-area{
+
+    }
+    .girl-img{
+     
+    }
+    .girl-Bracelet {
+   
+    }
+
+
+}

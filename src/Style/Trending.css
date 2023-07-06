@@ -45,10 +45,23 @@ height: 1px;
 margin-bottom: 38px;
 border: 1px solid #83471f;
 }
-/* .shopping-log{
-    height: 40px;
-    width: 40px;
-    border: 2px solid black;
-    border-radius: 31px;
-} */
-
+@media screen and (max-width: 1440px){  
+    .trending-product{
+        width: 80%;
+    }
+    .all-product{
+        overflow: hidden;
+    }
+    .card-items img {
+        width: 200px;
+        height: 270px;
+    }
+    .card-category{
+        margin: -81px 0px 0px -46px;
+    }
+    .card-width{
+        margin-left: -45px;
+    }
+  
+    
+}
