@@ -3,7 +3,7 @@ import Card from 'react-bootstrap/Card';
 import '../Style/cards.css';
 
 function CardItemFirst(props) {
-
+console.log("nk")
     return (
         <>
             <div className="all-cards">
