@@ -53,6 +53,8 @@ function TrendingProduct({ heading_first, heading_second }) {
                     </div>
                 </div>
 
+
+
             </div>
         </>
     )
