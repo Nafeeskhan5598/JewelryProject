@@ -47,7 +47,7 @@ border: 1px solid #83471f;
 }
 @media screen and (max-width: 1440px){  
     .trending-product{
-        width: 80%;
+        width: 100%;
     }
     .all-product{
         overflow: hidden;
@@ -64,4 +64,18 @@ border: 1px solid #83471f;
     }
   
     
+}
+@media screen and (max-width: 1115px){  
+    .card-items img {
+        width: 200px;
+        padding: 25px;
+    }
+    .card-items{
+        width: 200px;
+        /* padding: 25px; */
+    }
+    .product-item{
+        
+    }
+
 }

@@ -69,8 +69,10 @@ text-transform: uppercase;
     .girl-img{
      
     }
-    .girl-Bracelet {
+    .girl-Bracelet img {
    
+        width: 295px;
+
     }
 
 
