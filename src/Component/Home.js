@@ -16,6 +16,7 @@ import Footer from '../SmallComponent/Footer';
 
 
 function Home() {
+    console.log('nafees')
     return (
         <>
     
