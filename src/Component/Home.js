@@ -9,13 +9,8 @@ import GirlRing from '../Component/GirlRing';
 import Order from './Order';
 import Footer from '../SmallComponent/Footer';
 
-
-
-
-
-
-
 function Home() {
+    console.log('nafees khan')
     return (
         <>
     
